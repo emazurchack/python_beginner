@@ -1,2 +1,2 @@
 # python_beginner
-Python beginner course
+Lessons code of Python beginner course
